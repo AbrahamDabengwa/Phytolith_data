@@ -1,9 +1,6 @@
-# Phytolith_data
-## Phytoliths
+# Abraham Dabengwa
+## Phytolith database
 
-*a
-*g
-
-1. TEst
-2. TeS
-
+1. Noth Africa
+2. East Africa
+3. Southern Africa
